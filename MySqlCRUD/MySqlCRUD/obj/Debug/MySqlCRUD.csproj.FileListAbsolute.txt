@@ -1,0 +1,9 @@
+F:\Youtube Channel\Dotnet Mob\C# tutorials\c# Crud in mysql\project\MySqlCRUD\MySqlCRUD\bin\Debug\MySqlCRUD.exe.config
+F:\Youtube Channel\Dotnet Mob\C# tutorials\c# Crud in mysql\project\MySqlCRUD\MySqlCRUD\bin\Debug\MySqlCRUD.exe
+F:\Youtube Channel\Dotnet Mob\C# tutorials\c# Crud in mysql\project\MySqlCRUD\MySqlCRUD\bin\Debug\MySqlCRUD.pdb
+F:\Youtube Channel\Dotnet Mob\C# tutorials\c# Crud in mysql\project\MySqlCRUD\MySqlCRUD\obj\Debug\MySqlCRUD.csprojResolveAssemblyReference.cache
+F:\Youtube Channel\Dotnet Mob\C# tutorials\c# Crud in mysql\project\MySqlCRUD\MySqlCRUD\obj\Debug\MySqlCRUD.Form1.resources
+F:\Youtube Channel\Dotnet Mob\C# tutorials\c# Crud in mysql\project\MySqlCRUD\MySqlCRUD\obj\Debug\MySqlCRUD.Properties.Resources.resources
+F:\Youtube Channel\Dotnet Mob\C# tutorials\c# Crud in mysql\project\MySqlCRUD\MySqlCRUD\obj\Debug\MySqlCRUD.csproj.GenerateResource.Cache
+F:\Youtube Channel\Dotnet Mob\C# tutorials\c# Crud in mysql\project\MySqlCRUD\MySqlCRUD\obj\Debug\MySqlCRUD.exe
+F:\Youtube Channel\Dotnet Mob\C# tutorials\c# Crud in mysql\project\MySqlCRUD\MySqlCRUD\obj\Debug\MySqlCRUD.pdb
